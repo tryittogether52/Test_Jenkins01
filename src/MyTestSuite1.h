@@ -18,6 +18,6 @@
      {
 //         TS_ASSERT( 1 + 1 > 1 );
          TS_ASSERT_EQUALS( foo(0),0  );
-	 TS_ASSERT_EQUALS( foo(1),1  );
+	// TS_ASSERT_EQUALS( foo(1),1  );
      }
  };
